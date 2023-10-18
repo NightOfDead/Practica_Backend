@@ -1,0 +1,11 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "eva469611",
+        "database": "Backend"
+    },
+    "server": {
+        "port": 8080
+    }
+}
